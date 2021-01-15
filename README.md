@@ -19,6 +19,6 @@ This is an H2
 * hello
 	* this is next level
 
-'''
+```
 print("hello world!")
-'''
+```
